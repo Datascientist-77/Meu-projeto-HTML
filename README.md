@@ -1,3 +1,3 @@
-# Meu-primeiro projeto- html
+Meu-primeiro projeto- html
 
-Meu projeto. Estudo, Front-end para web.
+Olá pessoal! Este é meu primeiro projeto.
